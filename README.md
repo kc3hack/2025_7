@@ -1,4 +1,4 @@
-# プロダクト名 
+# 関西完済すごろく
 <!-- プロダクト名に変更してください -->
 
 ![プロダクト名](https://kc3.me/cms/wp-content/uploads/2024/11/hack25-eyecatch.png)
