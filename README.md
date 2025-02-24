@@ -3,6 +3,7 @@
 
 ![プロダクト名](https://kc3.me/cms/wp-content/uploads/2024/11/hack25-eyecatch.png)
 <!-- プロダクト名・イメージ画像を差し変えてください -->
+![Image](https://github.com/user-attachments/assets/e9e9a6aa-47d2-40f6-ba37-cf127d741e0e)
 
 
 ## チーム名
