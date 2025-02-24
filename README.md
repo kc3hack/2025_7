@@ -40,9 +40,14 @@
 ### デザイン面
 シンプルなすごろく形式にすることですごろくゲームにありがちな、要素が詰め込まれすぎているという事態を避けることを意識しました。
 ## 使用技術
+・JavaScript<br>
 ・Next.js<br>
 ・React<br>
-・TailwindCSS
+・TailwindCSS<br>
+・GeminiAPI
+
+
+
 <!-- 使用技術を入力してください -->
 
 
